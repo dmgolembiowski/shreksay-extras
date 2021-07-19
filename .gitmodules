@@ -4,3 +4,12 @@
 [submodule "wav_partitions/shreksay-extras-mov-2"]
 	path = wav_partitions/shreksay-extras-mov-2
 	url = https://github.com/dmgolembiowski/shreksay-extras-mov-2.git
+[submodule "wav_partitions/shreksay-extras-mov-3c"]
+	path = wav_partitions/shreksay-extras-mov-3c
+	url = https://github.com/dmgolembiowski/shreksay-extras-mov-3c
+[submodule "wav_partitions/shreksay-extras-mov-3b"]
+	path = wav_partitions/shreksay-extras-mov-3b
+	url = https://github.com/dmgolembiowski/shreksay-extras-mov-3b.git
+[submodule "wav_partitions/shreksay-extras-mov-3a"]
+	path = wav_partitions/shreksay-extras-mov-3a
+	url = https://github.com/dmgolembiowski/shreksay-extras-mov-3a.git
