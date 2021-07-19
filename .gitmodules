@@ -1,3 +1,6 @@
 [submodule "wav_partitions/shreksay-extras-mov-1"]
 	path = wav_partitions/shreksay-extras-mov-1
 	url = https://github.com/dmgolembiowski/shreksay-extras-mov-1.git
+[submodule "wav_partitions/shreksay-extras-mov-2"]
+	path = wav_partitions/shreksay-extras-mov-2
+	url = https://github.com/dmgolembiowski/shreksay-extras-mov-2.git
